@@ -1,0 +1,9 @@
+export { ReactComponent as IconAdd } from './IconAdd.svg';
+export { ReactComponent as IconBriefcase } from './IconBriefcase.svg';
+export { ReactComponent as IconClose } from './IconClose.svg';
+export { ReactComponent as IconFolder } from './IconFolder.svg';
+export { ReactComponent as IconGear } from './IconGear.svg';
+export { ReactComponent as IconHelp } from './IconHelp.svg';
+export { ReactComponent as IconHome } from './IconHome.svg';
+export { ReactComponent as IconPeople } from './IconPeople.svg';
+export { ReactComponent as IconRightArrow } from './IconRightArrow.svg';

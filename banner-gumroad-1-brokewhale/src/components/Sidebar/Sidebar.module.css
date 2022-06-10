@@ -1,0 +1,32 @@
+.sidebar {
+  grid-area: sidebar;
+  display: inline-block;
+  padding: var(--spacing-6);
+  box-shadow: var(--box-shadow);
+  height: 100%;
+  background-color: var(--color-white);
+}
+
+.cta {
+  margin-bottom: var(--spacing-6);
+}
+
+.sidebarIcon {
+  margin-right: var(--spacing-2);
+}
+
+.sidebarItem {
+  display: flex;
+  align-items: center;
+  padding: var(--spacing-3) 0;
+  text-decoration: none;
+  color: var(--color-gray);
+}
+
+.sidebarItem:hover {
+  color: var(--color-primary);
+}
+
+.sidebarItemActive {
+  color: var(--color-primary);
+}
